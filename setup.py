@@ -20,7 +20,7 @@ setup(
     python_requires=">=3.5.0",
     license = "MIT Licence",
 
-    # url = "https://github.com/stevenQiang/okta-cmd",
+    url = "https://github.com/zemengchuan/thegreatdataset",
     author = "zemengchuan",
     author_email = "zemengchuan@gmail.com",
 
